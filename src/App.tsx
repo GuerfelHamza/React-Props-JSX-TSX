@@ -11,7 +11,7 @@ function App() {
     <div className="container">
        <div className='divPost box box1 '><Button/><Button/><Button/><Button/><Button/>
     <Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/>
-    <Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/>
+    <Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/>
    </div>
   <div className="divPost box box1"  >
      <Post name="Toyota" email="toyota@gmail.com"> <div><h2 style={{color:"black"}}>JSX TSX dans React</h2></div><Button/></Post>
@@ -22,7 +22,7 @@ function App() {
     </div>
     <div className='divPost box box1 '><Button/><Button/><Button/><Button/><Button/>
     <Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/>
-    <Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/>
+    <Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/><Button/>
    </div>
     </div>
     </div>
